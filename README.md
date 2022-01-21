@@ -3,11 +3,11 @@ use frontend React and Backend Node js
 
 
 # change the directory 
-   1) cd Backend
-   2) npm install
+    1) cd Backend
+    2) npm install
 # Run the Server
  
-   3) node index
+     node index
    
   
   
